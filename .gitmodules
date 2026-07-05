@@ -1,9 +1,12 @@
 [submodule "SLAM_V1.0/Firmware"]
 	path = SLAM_V1.0/Firmware
 	url = https://github.com/KavinduMethpura/SLAM-Firmware.git
+	branch = main
 [submodule "SLAM_V1.0/RobotWebView"]
 	path = SLAM_V1.0/RobotWebView
 	url = https://github.com/KavinduMethpura/SLAM-WebDev-V1.0.git
+	branch = main
 [submodule "Remote-Control-Car"]
 	path = Remote-Control-Car
 	url = https://github.com/KavinduMethpura/Remote-Control-Car.git
+	branch = main
